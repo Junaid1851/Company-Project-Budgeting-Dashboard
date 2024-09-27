@@ -4,4 +4,4 @@ Made a dashboard for a company project budgeting for each department present in 
 Software used - SQL, Power BI, Excel
 
 Dashboard
-![Alt text](Company-Project-Budgeting-Dashboard/Dashboard.png)
+![Alt text](Company-Project-Budgeting-Dashboard/dashboard.png)
